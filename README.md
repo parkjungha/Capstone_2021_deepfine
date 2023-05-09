@@ -3,7 +3,7 @@
 [Paper](https://www.nature.com/articles/s41598-023-31408-y)
 
 by
-Jeong-Ha Park, 
+**Jeong-Ha Park**, 
 Chae-Yun Lim, and Hyuk-Yoon Kwon*
 
 
