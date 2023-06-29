@@ -1,6 +1,6 @@
 # An experimental study of animating‑based facial image manipulation in online class environments
 
-[Paper](https://www.nature.com/articles/s41598-023-31408-y)
+[[Paper Link]](https://www.nature.com/articles/s41598-023-31408-y)
 
 by
 **Jeong-Ha Park**, 
